@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kolostemplate", "kolostemplate\kolostemplate.csproj", "{68F98562-765C-457C-97E8-E3D424F018CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{11BB9AC5-29DB-45E0-A6EF-85A984D2D588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68F98562-765C-457C-97E8-E3D424F018CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F98562-765C-457C-97E8-E3D424F018CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F98562-765C-457C-97E8-E3D424F018CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F98562-765C-457C-97E8-E3D424F018CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11BB9AC5-29DB-45E0-A6EF-85A984D2D588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BB9AC5-29DB-45E0-A6EF-85A984D2D588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BB9AC5-29DB-45E0-A6EF-85A984D2D588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BB9AC5-29DB-45E0-A6EF-85A984D2D588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAA16F18-BCC1-48AD-9CF5-2EE77915E854}
+	EndGlobalSection
+EndGlobal
