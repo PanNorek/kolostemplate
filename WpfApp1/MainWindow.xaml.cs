@@ -13,6 +13,7 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
+
             plytoteka = Plytoteka.Odczytaj("binarny.bin");
             NameTxt.Text = plytoteka.Nazwa;
             PhoneTxt.Text = plytoteka.Telefon;
